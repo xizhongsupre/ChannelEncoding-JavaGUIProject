@@ -1,5 +1,5 @@
 This is a homework practise for learning Channel encoding in my communication techmology subject.
-The AMI,CMI and HDB3 is all my effort ny myself,but the rest of code comes from my classmate's help,thank zhangdan.
+The AMI,CMI,HDB3 and Shanon is all my effort ny myself,but the rest of code comes from my classmate's help,thank zhangdan.
 OK,it is all,hope you get a good understand.
 If you have any question,issue me or email to xizhongsupre@gmail.com
 
